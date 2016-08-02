@@ -1,0 +1,8 @@
+:root {
+  --colorYellow: #fbd75d;
+}
+
+.header {
+  display: flex;
+  background: var(--colorYellow);
+}

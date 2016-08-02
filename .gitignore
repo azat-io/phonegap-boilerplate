@@ -1,0 +1,15 @@
+# Node.js
+node_modules
+npm-debug.log
+
+# Android / PhoneGap
+www
+plugins
+*.apk
+
+# OS X
+.DS_Store
+
+# Editor
+*~
+\#*\#
